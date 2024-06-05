@@ -4,9 +4,9 @@ import { FaCheck, FaTimes } from "react-icons/fa";
 
 const quizQuestions = [
   {
-    question: "What is the capital of France?",
-    options: ["Berlin", "Madrid", "Paris", "Lisbon"],
-    answer: "Paris",
+    question: "What is the capital of Italy?",
+    options: ["Berlin", "Madrid", "Rome", "Lisbon"],
+    answer: "Rome",
   },
   {
     question: "What is 2 + 2?",
